@@ -7,6 +7,8 @@ Capstone at Tech Elevator: pair programmed a Vending Machine, command line inter
 
 
 ### Installation Steps
-If you wanted to take a look at this application, first clone the repository.
-Make sure the vending machine csv file is in the Capstone/bin/Debug/netcoreapp2.1 folder.
-Run the vending machine from Visual Studio and have fun!
+<ul>
+  <li>If you wanted to take a look at this application, first clone the repository.</li>
+  <li>Make sure the vending machine csv file is in the Capstone/bin/Debug/netcoreapp2.1 folder.</li>
+  <li>Run the vending machine from Visual Studio and have fun!</li>
+ </ul>
